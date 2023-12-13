@@ -173,6 +173,9 @@
     <ClInclude Include="..\ADS_2023_CA2_BacLi\Tree.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Xml Include="..\ADS_2023_CA2_BacLi\testxml.xml" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

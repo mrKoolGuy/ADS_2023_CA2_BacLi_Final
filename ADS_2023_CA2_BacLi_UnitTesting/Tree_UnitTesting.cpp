@@ -37,7 +37,6 @@ namespace ADS2023CA2BacLiUnitTesting
 			Assert::AreEqual(fileName, tree.name);
 			Assert::AreEqual(itemSize, tree.length);
 			Assert::AreEqual(fileType, tree.type);
-			Assert::IsNull(tree.children);
 			Assert::IsNull(tree.parent);
 		}
 

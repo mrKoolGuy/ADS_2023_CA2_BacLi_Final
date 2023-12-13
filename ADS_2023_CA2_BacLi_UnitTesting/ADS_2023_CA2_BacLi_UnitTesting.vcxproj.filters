@@ -45,4 +45,9 @@
       <Filter>Ressourcendateien</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Xml Include="..\ADS_2023_CA2_BacLi\testxml.xml">
+      <Filter>Ressourcendateien</Filter>
+    </Xml>
+  </ItemGroup>
 </Project>
